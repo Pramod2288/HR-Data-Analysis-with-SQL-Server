@@ -1,7 +1,6 @@
 # HR-Data-Analysis-with-SQL-Server
 SQL queries and insights for comprehensive HR data analysis.
 
-**HR Data Analysis******
 This repository contains SQL scripts for performing comprehensive HR data analysis. The analysis covers various aspects such as employee demographics, attrition rates, salary insights, performance, career progression, and work environment factors.
 
 **Project Overview**
